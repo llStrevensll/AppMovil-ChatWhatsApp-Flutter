@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+***App***
+
+![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp1.PNG)
+
+![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp2.PNG)
+
+![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp3.PNG)
+
+
+![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp4.PNG)
+
+![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp5.PNG)
+
+
+
