@@ -15,18 +15,28 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
 ***App***
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp1.PNG?raw=true" alt="appwp1"/>
+</p>
 
-![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp1.PNG)
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp2.PNG?raw=true" alt="appwp2"/>
+</p>
 
-![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp2.PNG)
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp3.PNG?raw=true" alt="appwp3"/>
+</p>
 
-![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp3.PNG)
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp4.PNG?raw=true" alt="appwp4"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp5.PNG?raw=true" alt="appwp5"/>
+</p>
 
-![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp4.PNG)
-
-![Imagen](https://github.com/llStrevensll/AppMovil-ChatWhatsApp-Flutter/blob/master/Appwp5.PNG)
 
 
 
